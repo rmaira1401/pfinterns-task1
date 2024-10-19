@@ -1,5 +1,5 @@
 # pfinterns-task1
-Health and Lifespan Analysis in Power BI
+Health and Lifespan Analysis in Power BI.
 This project analyzes life expectancy data by examining factors such as healthcare,
 immunizations, mortality, finances, and social conditions to identify key predictors of
 lower life expectancy. The analysis aims to answer important questions, including the
